@@ -793,4 +793,4 @@ message.channel.stopTyping()
 })
 }
 });
-client.login("NTQwOTExNDc4NTQ3Njc3MTg2.D0hHbA.58CC5vR3TJlN-XwBu8zk48gZGRE");
+client.login(process.env.token);
